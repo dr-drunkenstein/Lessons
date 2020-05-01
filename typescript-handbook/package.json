@@ -1,0 +1,16 @@
+{
+  "name": "typescript-handbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-types.js",
+  "scripts": {
+    "start": "tsc basic-types.ts && node basic-types"
+  },
+  "keywords": [],
+  "author": "Vadim Ivanov",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "typescript": "^3.8.3"
+  }
+}
