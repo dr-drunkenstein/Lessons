@@ -3,3 +3,4 @@ import { LODASH, BOOTSTRAP } from './scriptSrc'
 import './style.scss'
 
 loadScript(LODASH, addBootstrap)
+
